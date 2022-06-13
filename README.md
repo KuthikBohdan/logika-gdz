@@ -1,0 +1,1 @@
+# LOGIKA_GDZ
