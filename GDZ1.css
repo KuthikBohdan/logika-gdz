@@ -3,6 +3,7 @@ body {
     font-family: sans-serif;
 }
 .a10{
+   display: flex;
 position: absolute;
 width: 26.02px;
 height: 23.38px;
@@ -20,6 +21,7 @@ color: #FFFFFF;
 
 }
 .a20{
+   display: flex;
 position: absolute;
 width: 18px;
 height: 37px;
@@ -39,6 +41,7 @@ color: #FFFFFF;
 transform: rotate(-0.54deg);
 }
 .a30{
+   display: flex;
 position: absolute;
 width: 18px;
 height: 37px;
