@@ -5,36 +5,39 @@ body {
 .a10{
    display: flex;
 position: absolute;
-width: 26.02px;
-height: 23.38px;
-left: 50.06px;
-top: 280.59px;
+width: 23.85px;
+height: 21.44px;
+left: 45.89px;
+top: 257.24px;
 
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
-font-size: 31.6155px;
-line-height: 37px;
+font-size: 28.9851px;
+line-height: 34px;
 
 color: #FFFFFF;
+
 
 
 }
 .a20{
    display: flex;
 position: absolute;
-width: 18px;
-height: 37px;
-left: 200px;
-top: 285.17px;
+width: 17px;
+height: 34px;
+left: 183.36px;
+top: 261.45px;
 
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
-font-size: 31.62px;
-line-height: 37px;
+font-size: 28.9893px;
+line-height: 34px;
 /* identical to box height */
 
+
+color: #FFFFFF;
 
 color: #FFFFFF;
 
@@ -43,20 +46,21 @@ transform: rotate(-0.54deg);
 .a30{
    display: flex;
 position: absolute;
-width: 18px;
-height: 37px;
-left: 369.5px;
-top: 281.58px;
+width: 17px;
+height: 34px;
+left: 338.75px;
+top: 258.15px;
 
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
-font-size: 31.6155px;
-line-height: 37px;
+font-size: 28.9851px;
+line-height: 34px;
 /* identical to box height */
 
 
 color: #FFFFFF;
+
 }
 .a40{
 position: absolute;
