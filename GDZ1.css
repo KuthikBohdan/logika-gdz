@@ -63,54 +63,53 @@ color: #FFFFFF;
 
 }
 .a40{
+     display: flex;
 position: absolute;
-width: 18px;
-height: 37px;
-left: 50.06px;
-top: 363.91px;
+width: 17px;
+height: 34px;
+left: 45.89px;
+top: 333.63px;
 
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
-font-size: 31.6155px;
-line-height: 37px;
+font-size: 28.9851px;
+line-height: 34px;
 /* identical to box height */
 
 
 color: #FFFFFF;
-
-
 }
 .a50{
 position: absolute;
-width: 18px;
-height: 37px;
-left: 199.24px;
-top: 368.19px;
+width: 17px;
+height: 34px;
+left: 182.66px;
+top: 337.56px;
 
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
-font-size: 31.6155px;
-line-height: 37px;
+font-size: 28.9851px;
+line-height: 34px;
 /* identical to box height */
 
 
 color: #FFFFFF;
 
 }
-.a6{
+.a60{
 position: absolute;
-width: 18px;
-height: 37px;
-left: 369.5px;
-top: 363.91px;
+width: 17px;
+height: 34px;
+left: 338.75px;
+top: 333.63px;
 
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
-font-size: 31.6155px;
-line-height: 37px;
+font-size: 28.9851px;
+line-height: 34px;
 /* identical to box height */
 
 
@@ -119,16 +118,16 @@ color: #FFFFFF;
 }
 .a70{
 position: absolute;
-width: 18px;
-height: 37px;
-left: 50.06px;
-top: 454.8px;
+width: 17px;
+height: 34px;
+left: 45.89px;
+top: 416.96px;
 
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
-font-size: 31.6155px;
-line-height: 37px;
+font-size: 28.9851px;
+line-height: 34px;
 /* identical to box height */
 
 
@@ -136,16 +135,16 @@ color: #FFFFFF;
 }
 .a80{
 position: absolute;
-width: 18px;
-height: 37px;
-left: 369.5px;
-top: 454.8px;
+width: 17px;
+height: 34px;
+left: 338.75px;
+top: 416.96px;
 
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
-font-size: 31.6155px;
-line-height: 37px;
+font-size: 28.9851px;
+line-height: 34px;
 /* identical to box height */
 
 
