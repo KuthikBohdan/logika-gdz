@@ -1,6 +1,6 @@
 <html>
     <head>
-        <rel link="GDZ1.CSS">
+        <rel link="GDZ1.css">
 <title> </title>
     </head>
 
