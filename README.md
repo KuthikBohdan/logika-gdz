@@ -1,6 +1,6 @@
 <html>
     <head>
-        <rel link="GDZ1">
+        <rel link="https://github.com/KuthikBohdan/LOGIKA_GDZ/blob/main/GDZ1.css">
 <title> </title>
     </head>
 
