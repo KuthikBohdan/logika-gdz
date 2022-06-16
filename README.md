@@ -1,7 +1,7 @@
 <html>
     <head>
         <link rel="stylesheet" href="GDZ1.css"/>
-<title> </title>
+<title>logoka gdz </title>
     </head>
 
     <body>
