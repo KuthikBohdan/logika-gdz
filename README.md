@@ -16,9 +16,10 @@
 <a class="a60" href="">6</a>
 <a class="a70" href="">7</a>
 <a class="a80" href="">8</a>
-          </nav>
+          </nav>  
         </header>
         <mein>
+            <p class="b10">розділ 1</p>
         </mein>
 
 
