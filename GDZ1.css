@@ -139,6 +139,9 @@ width: 17px;
 height: 34px;
 left: 338.75px;
 top: 416.96px;
+   
+   
+   
 
 font-family: 'Roboto';
 font-style: normal;
@@ -152,9 +155,6 @@ color: #FFFFFF;
 
 }
 .b10{
-   /* розділ 1 */
-
-
 position: absolute;
 width: 75px;
 height: 23px;
@@ -172,3 +172,91 @@ line-height: 23px;
 color: #3B4773;
 
 }
+.d21{
+  /* урок 2 */
+
+
+position: absolute;
+width: 58px;
+height: 23px;
+left: 20.83px;
+top: 538.34px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 19.3234px;
+line-height: 23px;
+/* identical to box height */
+
+
+color: #3B4773;
+ 
+}
+.c121{
+   /* 3 */
+
+
+position: absolute;
+width: 17px;
+height: 34px;
+left: 45.89px;
+top: 587.55px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 28.9851px;
+line-height: 34px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+.c221{
+   /* 4 */
+
+
+position: absolute;
+width: 17px;
+height: 34px;
+left: 160.62px;
+top: 587.55px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 28.9851px;
+line-height: 34px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+}
+
+.d31{
+  /* урок 3 */
+
+
+position: absolute;
+width: 58px;
+height: 23px;
+left: 21.14px;
+top: 695.04px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 19.3234px;
+line-height: 23px;
+/* identical to box height */
+
+
+color: #3B4773;
+ 
+}
+
+
+
