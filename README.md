@@ -19,6 +19,8 @@
           </nav>  
         </header>
         <mein>
+              <p class="e20"></p>
+             <p class="e10"></p>
             <p id="b10"class="b10">розділ 1</p>
   <p class="d21">урок 2</p>          
  <a class="c121" href="">1</a>
