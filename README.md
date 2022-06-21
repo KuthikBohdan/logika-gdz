@@ -7,6 +7,9 @@
     <body>
         
         <header>
+            <p class="f20">GDZ</p>
+            <p class="f10">logika</p>
+            
           <nav>
 <a class="a10" href="#b10">1</a>
 <a class="a20" href="#b20">2</a>
