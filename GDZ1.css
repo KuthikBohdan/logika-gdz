@@ -6,13 +6,14 @@ body {
 
 
 .e10{
-   /* Educ */
+/* Educ */
 
 
 position: absolute;
 width: 500px;
 height: 5549px;
 left: 500px;
+right: 500px;
 top: 0px;
 
 background: rgba(37, 12, 187, 0.26);
