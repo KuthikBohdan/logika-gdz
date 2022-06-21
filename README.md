@@ -21,14 +21,14 @@
 <a class="a80" href="#80">8</a>
               
               
-<a class="ga10" href="#b10">1</a>
-<a class="g20" href="#b20">2</a>
-<a class="g30" href="#b30">3</a>
-<a class="g40" href="#b40">4</a>
-<a class="g50" href="#b50">5</a>
-<a class="g60" href="#b60">6</a>
-<a class="g70" href="#b70">7</a>
-<a class="g80" href="#b80">8</a>
+<a class="ga10" href="#b10"></a>
+<a class="g20" href="#b20"></a>
+<a class="g30" href="#b30"></a>
+<a class="g40" href="#b40"></a>
+<a class="g50" href="#b50"></a>
+<a class="g60" href="#b60"></a>
+<a class="g70" href="#b70"></a>
+<a class="g80" href="#b80"></a>
           </nav>  
         </header>
         <mein>
@@ -49,11 +49,11 @@
             
             
                   
- <a class="gc121" href="">1</a>
-<a class="gc221" href="">2</a>
+ <a class="gc121" href=""></a>
+<a class="gc221" href=""></a>
  
-<a class="gc331" href="">3</a>
-<a class="gc431" href="">4</a>
+<a class="gc331" href=""></a>
+<a class="gc431" href=""></a>
             
             
             <p id="b20"class="b20">розділ 2</p>
@@ -73,15 +73,15 @@
             
             
        
-<a class="gc542" href="">1</a>
-<a class="gc642" href="">2</a>
+<a class="gc542" href=""></a>
+<a class="gc642" href=""></a>
     
-<a class="gc752" href="">3</a>
-<a class="gc852" href="">4</a> 
-<a class="gc962" href="">5</a>
-<a class="gc1062" href="">6</a> 
-<a class="gc1172" href="">7</a> 
-<a class="gc1272" href="">8</a>  
+<a class="gc752" href=""></a>
+<a class="gc852" href=""></a> 
+<a class="gc962" href=""></a>
+<a class="gc1062" href=""></a> 
+<a class="gc1172" href=""></a> 
+<a class="gc1272" href=""></a>  
             
             
              <p id="b30"class="b30">розділ 3</p>
@@ -102,17 +102,17 @@
             
             
                     
-<a class="gc1383" href="">1</a>
-<a class="gc1483" href="">2</a>
+<a class="gc1383" href=""></a>
+<a class="gc1483" href=""></a>
          
-<a class="gc1593" href="">3</a>
-<a class="gc1693" href="">4</a> 
+<a class="gc1593" href=""></a>
+<a class="gc1693" href=""></a> 
           
-<a class="gc17103" href="">5</a>
-<a class="gc18103" href="">6</a> 
+<a class="gc17103" href=""></a>
+<a class="gc18103" href=""></a> 
           
-<a class="gc19113" href="">7</a> 
-<a class="gc20113" href="">8</a>
+<a class="gc19113" href=""></a> 
+<a class="gc20113" href=""></a>
             
             
               <p id="b40"class="b40">розділ 4</p>
