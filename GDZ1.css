@@ -2,7 +2,44 @@ body {
    background-color:#250CBB42;
     font-family: sans-serif;
 }
+.f10{
+   /* logka */
 
+
+position: absolute;
+width: 173.09px;
+height: 57.35px;
+left: 303.75px;
+top: 191.17px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 66.1363px;
+line-height: 78px;
+
+color: #D212BF;
+}
+.f20{
+ /* GDZ */
+
+
+position: absolute;
+width: 125.9px;
+height: 39px;
+left: 444.7px;
+top: 181.36px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 33.1589px;
+line-height: 39px;
+/* identical to box height */
+
+
+color: #193DBC;  
+}
 
 
 .e10{
