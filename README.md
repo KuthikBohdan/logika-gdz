@@ -19,12 +19,27 @@
 <a class="a60" href="#b60">6</a>
 <a class="a70" href="#70">7</a>
 <a class="a80" href="#80">8</a>
+              
+              
+<a class="ga10" href="#b10">1</a>
+<a class="g20" href="#b20">2</a>
+<a class="g30" href="#b30">3</a>
+<a class="g40" href="#b40">4</a>
+<a class="g50" href="#b50">5</a>
+<a class="g60" href="#b60">6</a>
+<a class="g70" href="#b70">7</a>
+<a class="g80" href="#b80">8</a>
           </nav>  
         </header>
         <mein>
               <p class="e20"></p>
              <p class="e10"></p>
+            
+            
+            
             <p id="b10"class="b10">розділ 1</p>
+            
+            
   <p class="d21">урок 2</p>          
  <a class="c121" href="">1</a>
 <a class="c221" href="">2</a>
@@ -33,7 +48,17 @@
 <a class="c431" href="">4</a>
             
             
+                  
+ <a class="gc121" href="">1</a>
+<a class="gc221" href="">2</a>
+ 
+<a class="gc331" href="">3</a>
+<a class="gc431" href="">4</a>
+            
+            
             <p id="b20"class="b20">розділ 2</p>
+            
+            
   <p class="d12">урок 1</p>         
 <a class="c542" href="">1</a>
 <a class="c642" href="">2</a>
@@ -46,7 +71,22 @@
 <a class="c1272" href="">8</a>  
             
             
+            
+       
+<a class="gc542" href="">1</a>
+<a class="gc642" href="">2</a>
+    
+<a class="gc752" href="">3</a>
+<a class="gc852" href="">4</a> 
+<a class="gc962" href="">5</a>
+<a class="gc1062" href="">6</a> 
+<a class="gc1172" href="">7</a> 
+<a class="gc1272" href="">8</a>  
+            
+            
              <p id="b30"class="b30">розділ 3</p>
+            
+            
   <p class="d13">урок 1</p>         
 <a class="c1383" href="">1</a>
 <a class="c1483" href="">2</a>
@@ -58,7 +98,21 @@
 <a class="c18103" href="">6</a> 
     <p class="d43">урок 4</p>         
 <a class="c19113" href="">7</a> 
-<a class="c" href="">8</a>
+<a class="c20113" href="">8</a>
+            
+            
+                    
+<a class="gc1383" href="">1</a>
+<a class="gc1483" href="">2</a>
+         
+<a class="gc1593" href="">3</a>
+<a class="gc1693" href="">4</a> 
+          
+<a class="gc17103" href="">5</a>
+<a class="gc18103" href="">6</a> 
+          
+<a class="gc19113" href="">7</a> 
+<a class="gc20113" href="">8</a>
             
             
               <p id="b40"class="b40">розділ 4</p>
