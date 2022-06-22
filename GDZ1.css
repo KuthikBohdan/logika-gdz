@@ -81,7 +81,22 @@ background: #FFFFFF;
 }
 
 .a10{
- 
+ /* 1 */
+
+
+position: absolute;
+width: 38.87px;
+height: 34.93px;
+left: 86.6px;
+top: 419.17px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 47.2306px;
+line-height: 55px;
+
+color: #FFFFFF;
 
 
 }
