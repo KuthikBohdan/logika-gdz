@@ -7,6 +7,10 @@
     <body>
         
         <header>
+            <p class="e30"></p>
+              <p class="e20"></p>
+             <p class="e10"></p>
+            
             <p class="f20">GDZ</p>
             <p class="f10">logika</p>
             
@@ -32,9 +36,7 @@
           </nav>  
         </header>
         <mein>
-                         <p class="e30"></p>
-              <p class="e20"></p>
-             <p class="e10"></p>
+              
             
             
             
