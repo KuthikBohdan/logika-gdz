@@ -55,7 +55,14 @@ background: rgba(37, 12, 187, 0.26);
 }
 
 .e20{
-  
+ /* Frame 1 */
+
+
+position: relative;
+width: 1502px;
+height: 9522px;
+
+background: #FFFFFF;              
 }
 
 .a10{
