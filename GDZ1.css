@@ -8,7 +8,7 @@ body {
 position: absolute;
 width: 164.36px;
 height: 54.46px;
-left: 480.84px;
+left: 280.84px;
 top: 181.54px;
 
 font-family: 'Roboto';
@@ -20,7 +20,6 @@ line-height: 74px;
 color: #D212BF;
 
 
-
 }
 .f20{
 /* GDZ */
@@ -29,7 +28,7 @@ color: #D212BF;
 position: absolute;
 width: 119.55px;
 height: 37px;
-left: 610.88px;
+left: 410.88px;
 top: 172.21px;
 
 font-family: 'Roboto';
@@ -52,8 +51,8 @@ color: #193DBC;
 
 position: absolute;
 width: 791px;
-height: 9041.9px;
-left: 544px;
+height: 8388px;
+left: 100px;
 top: 0px;
 
 background: rgba(37, 12, 187, 0.26);
@@ -81,7 +80,7 @@ background: #FFFFFF;
 position: absolute;
 width: 38.87px;
 height: 34.93px;
-left: 86.6px;
+left: 186.6px;
 top: 419.17px;
 
 font-family: 'Roboto';
@@ -90,8 +89,7 @@ font-weight: 400;
 font-size: 47.2306px;
 line-height: 55px;
 
-color: #972B2B;
-
+color: #FFFFFF;
 
 }
 .a20{
