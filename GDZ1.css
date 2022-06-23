@@ -8,7 +8,7 @@ body {
 position: absolute;
 width: 164.36px;
 height: 54.46px;
-left: 480.84px;
+left: 280.84px;
 top: 181.54px;
 
 font-family: 'Roboto';
@@ -28,7 +28,7 @@ color: #D212BF;
 position: absolute;
 width: 119.55px;
 height: 37px;
-left: 610.88px;
+left: 410.88px;
 top: 172.21px;
 
 font-family: 'Roboto';
@@ -40,6 +40,7 @@ line-height: 37px;
 
 
 color: #193DBC;
+
 
 }
 
@@ -64,7 +65,7 @@ position: relative;
 width: 1422px;
 height: 9042px;
 
-background: #FFFFFF;   
+background: #FFFFFF;  
 }
 .e30{
    
