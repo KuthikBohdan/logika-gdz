@@ -1,4 +1,7 @@
-<html>
+<!DOCTYPE html>
+<html land="en">
+    <head>
+    <meta charset="UFT-8">
     <head>
         <link rel="stylesheet" href="GDZ1.css"/>
 <title>logoka gdz </title>
