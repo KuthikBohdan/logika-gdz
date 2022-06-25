@@ -21,8 +21,8 @@
 <a class="a40" href="#b40">4</a>
 <a class="a50" href="#b50">5</a>
 <a class="a60" href="#b60">6</a>
-<a class="a70" href="#70">7</a>
-<a class="a80" href="#80">8</a>
+<a class="a70" href="#b70">7</a>
+<a class="a80" href="#b80">8</a>
               
               
 <a class="ga10" href="#b10"></a>
