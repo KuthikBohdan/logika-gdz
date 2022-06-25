@@ -17,6 +17,10 @@
             <p class="f20">GDZ</p>
             <p class="f10">logika</p>
             
+            
+        </header>
+        <mein>
+            
           
 <a class="a10" >1</a>
 <a href="#b20"><p class="a20" >2</p></a>
@@ -36,9 +40,6 @@
 <a class="ga60" href="#b60"></a>
 <a class="ga70" href="#b70"></a>
 <a class="ga80" href="#b80"></a>
-            
-        </header>
-        <mein>
               
             
             
