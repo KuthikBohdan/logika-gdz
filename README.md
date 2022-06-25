@@ -15,8 +15,8 @@
             <p class="f10">logika</p>
             
           
-<a class="a10" href="#b10">1</a>
-<a class="a20" href="#b20">2</a>
+            <a class="a10" href="#b10"><p>1</p></a>
+<a class="a20" href="#b20"><p>2</p></a>
 <a class="a30" href="#b30">3</a>
 <a class="a40" href="#b40">4</a>
 <a class="a50" href="#b50">5</a>
