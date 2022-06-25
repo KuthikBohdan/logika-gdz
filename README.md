@@ -14,7 +14,7 @@
             <p class="f20">GDZ</p>
             <p class="f10">logika</p>
             
-          <nav>
+          
 <a class="a10" href="#b10">1</a>
 <a class="a20" href="#b20">2</a>
 <a class="a30" href="#b30">3</a>
@@ -23,8 +23,8 @@
 <a class="a60" href="#b60">6</a>
 <a class="a70" href="#b70">7</a>
 <a class="a80" href="#b80">8</a>
-              
-              
+                
+                       
 <a class="ga10" href="#b10"></a>
 <a class="g20" href="#b20"></a>
 <a class="g30" href="#b30"></a>
@@ -33,7 +33,7 @@
 <a class="g60" href="#b60"></a>
 <a class="g70" href="#b70"></a>
 <a class="g80" href="#b80"></a>
-          </nav>  
+            
         </header>
         <mein>
               
@@ -43,7 +43,8 @@
             <p id="b10"class="b10">розділ 1</p>
             
             
-  <p class="d21">урок 2</p>          
+  <p class="d21">урок 2</p> 
+            
  <a class="c121" href="">1</a>
 <a class="c221" href="">2</a>
   <p class="d31">урок 3</p>
