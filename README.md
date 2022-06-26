@@ -17,7 +17,6 @@
             <p class="f20">GDZ</p>
             <p class="f10">logika</p>
             
-            <a href=""><tr class="a10" >1</tr></a>
 <div class="a10"> <a href="#10">1</a></div>       
 <div class="a20"> <a href="#b20">2</a></div>
 <div class="a30"> <a href="#b30">3</a></div>
