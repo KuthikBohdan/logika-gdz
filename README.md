@@ -21,8 +21,8 @@
         <mein>
             
           
-<a class="a10" >1</a>
-<a href="#b20"class="a20" >2</a>
+<a class="a10" href="#b10">1</a>
+<a class="a20" href="#b20">2</a>
 <a class="a30" href="#b30">3</a>
 <a class="a40" href="#b40">4</a>
 <a class="a50" href="#b50">5</a>
