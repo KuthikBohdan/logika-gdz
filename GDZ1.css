@@ -68,24 +68,31 @@ background: #FFFFFF;
    
    
 }
-
-.a10 {
+.a10{
+padding-top: 15px;
+text-align:center;
 /* 1 */
+border-radius: 50%;
+
+border: 00.1px solid #3B4773E5;
+background:#3B4773E5;
+font-size: 24px;
+text-decoration: ;
+   color: white;
+   /* Ellipse 7 */
 
 
 position: absolute;
-width: 38.87px;
-height: 34.93px;
-left: 186.6px;
-top: 419.17px;
+width: 53.76px;
+height: 50.86px;
+left: 48.61px;
+top: 392.6px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 47.2306px;
-line-height: 55px;
+background: rgba(59, 71, 115, 0.9);
+}
+.a0 {
+/* 1 */
 
-color: #000000;
 
 
 }
