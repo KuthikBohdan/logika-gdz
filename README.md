@@ -18,23 +18,14 @@
             <p class="f10">logika</p>
             
             <a href=""><tr class="a10" >1</tr></a>
-<a class="a20" href="#b20">2</a>
-<a class="a30" href="#b30">3</a>
-<a class="a40" href="#b40">4</a>
-<a class="a50" href="#b50">5</a>
-<a class="a60" href="#b60">6</a>
-<a class="a70" href="#b70">7</a>
-<a class="a80" href="#b80">8</a>
-                
-                       
-<a class="ga10" href="#b10"></a>
-<a class="ga20" href="#b20"></a>
-<a class="ga30" href="#b30"></a>
-<a class="ga40" href="#b40"></a>
-<a class="ga50" href="#b50"></a>
-<a class="ga60" href="#b60"></a>
-<a class="ga70" href="#b70"></a>
-<a class="ga80" href="#b80"></a>
+<div class="a10"> <a href="#10">1</a></div>       
+<div class="a20"> <a href="#b20">2</a></div>
+<div class="a30"> <a href="#b30">3</a></div>
+<div class="a40"> <a href="#b40">4</a></div>
+<div class="a50"> <a href="#b50">5</a></div>
+<div class="a60"> <a href="#b60">6</a></div>
+<div class="a70"> <a href="#b70">7</a></div>
+<div class="a80"> <a href="#b80">8</a></div>
               
             
             
