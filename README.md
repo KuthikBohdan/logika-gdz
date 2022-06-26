@@ -9,6 +9,7 @@
     <body>
         
         <header>
+            
             <p class="e30"></p>
               <p class="e20"></p>
              <p class="e10"></p>
@@ -16,11 +17,6 @@
             <p class="f20">GDZ</p>
             <p class="f10">logika</p>
             
-            
-        </header>
-        <mein>
-            
-          
             <a href=""><tr class="a10" >1</tr></a>
 <a class="a20" href="#b20">2</a>
 <a class="a30" href="#b30">3</a>
@@ -194,6 +190,11 @@
 <a class="с57308" href="">5</a>
 <a class="c58318" href="">6</a> 
         
+            
+        </header>
+        <mein>
+            
+          
     
     
         </mein>
