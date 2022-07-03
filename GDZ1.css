@@ -56,15 +56,14 @@ color: #193DBC;
 
 
 .ga10{
-padding-top: 46px;
+
 text-align:center;
 border-radius: 50%;
 border: 00.1px solid #3B4773E5;
 background:#3B4773E5;
 font-size: 47.2306px;
 
-padding-left: 21px;
-padding-right:21px;
+
 position: absolute;
 width: 106.76px;
 height: 100.86px;
@@ -75,10 +74,16 @@ background: rgba(59, 71, 115, 0.9);
 }
 
 .a10{
- /* 1 */
 
 
+/* 1 */
 
+
+position: absolute;
+width: 38.87px;
+height: 34.93px;
+left: 86.6px;
+top: 419.17px;
 
 font-family: 'Roboto';
 font-style: normal;
