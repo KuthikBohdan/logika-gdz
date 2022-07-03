@@ -17,7 +17,8 @@
             <p class="f20">GDZ</p>
             <p class="f10">logika</p>
             
-<div class="a10"> <a href="#b10">1</a></div>       
+<nav class="ga10"> <a class="a10" href="#b10">1</a></nav> 
+
 <div class="a20"> <a href="#b20">2</a></div>
 <div class="a30"> <a href="#b30">3</a></div>
 <div class="a40"> <a href="#b40">4</a></div>
@@ -27,9 +28,9 @@
 <div class="a80"> <a href="#b80">8</a></div>
     
             
+            <p id="b10" class="b10">розділ 1 </p>
             
             
-            <p id="b10"class="b10">розділ 1</p>
             
             
   <p class="d21">урок 2</p> 
@@ -49,7 +50,7 @@
 <a class="gc431" href=""></a>
             
             
-            <p id="b20"class="b20">розділ 2</p>
+          <p id="b20" class="b20">розділ 2 </p>
             
             
   <p class="d12">урок 1</p>         
@@ -77,7 +78,7 @@
 <a class="gc1272" href=""></a>  
             
             
-             <p id="b30"class="b30">розділ 3</p>
+             <p id="b30" class="b30">розділ 3 </p>
             
             
   <p class="d13">урок 1</p>         
@@ -108,22 +109,22 @@
 <a class="gc20113" href=""></a>
             
             
-              <p id="b40"class="b40">розділ 4</p>
+             <p id="b40" class="b40">розділ 4 </p>
   <p class="d14">урок 1</p>         
 <a class="c21124" href="">1</a>
 <a class="c22124" href="">2</a>
    <p class="d24">урок 2</p>       
 <a class="c23134" href="">3</a>
 <a class="c24134" href="">4</a>
-   p class="d34">урок 3</p>         
+   <p class="d34">урок 3</p>         
 <a class="с25144" href="">5</a>
 <a class="c26144" href="">6</a> 
-        p class="d44">урок 4</p>
+       <p class="d44">урок 4</p>
 <a class="c27154" href="">7</a> 
 <a class="c28154" href="">8</a>   
     
     
-     <p id="b50"class="b50">розділ 5</p>
+   <p id="b50" class="b50">розділ 5 </p>
   <p class="d15">урок 1</p>         
 <a class="c29165" href="">1</a>
 <a class="c30165" href="">2</a>
@@ -139,7 +140,7 @@
     
     
     
-      <p id="b60"class="b60">розділ 6</p>
+    <p id="b60" class="b60">розділ 6 </p>
   <p class="d16">урок 1</p>         
 <a class="c37206" href="">1</a>
 <a class="c38206" href="">2</a>
@@ -154,7 +155,7 @@
 <a class="c44236" href="">8</a>
     
     
-        <p id="b70"class="b70">розділ 7</p>
+     <p id="b70" class="b70">розділ 7 </p>
   <p class="d17">урок 1</p>         
 <a class="c45247" href="">1</a>
 <a class="c46247" href="">2</a>
@@ -169,7 +170,7 @@
 <a class="c52277" href="">8</a>
     
     
-       <p id="b80"class="b80">розділ 8</p>
+      <p id="b80" class="b80">розділ 8 </p>
   <p class="d18">урок 1</p>         
 <a class="c53288" href="">1</a>
 <a class="c54298" href="">2</a>
