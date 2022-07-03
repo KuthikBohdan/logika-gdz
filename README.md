@@ -17,7 +17,7 @@
             <p class="f20">GDZ</p>
             <p class="f10">logika</p>
             
-<nav class="ga10"> <a class="a10" href="#b10">1</a></nav> 
+<nav class="ga10"> <a  href="#b10" class="a10">1</a></nav> 
 
 <div class="a20"> <a href="#b20">2</a></div>
 <div class="a30"> <a href="#b30">3</a></div>
