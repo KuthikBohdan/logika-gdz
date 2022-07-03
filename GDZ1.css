@@ -2,7 +2,6 @@ body {
    /* Educ */
 
 
-position: absolute;
 
 
 background: rgba(37, 12, 187, 0.26);
@@ -24,8 +23,6 @@ font-size: 62.8017px;
 line-height: 74px;
 
 color: #D212BF;
-
-
 }
 .f20{
 /* GDZ */
@@ -47,55 +44,27 @@ line-height: 37px;
 
 color: #193DBC;
 
-
 }
 
 
-.e10{
 
 
 .e20{
-/* Frame 1 */
 
-
-position: relative;
-width: 1422px;
-height: 9042px;
-
-background: #FFFFFF;
-}
-.e30{
-   
-   
 }
 
-.a10{
-padding-top: 15px;
-text-align:center;
-/* 1 */
-border-radius: 50%;
 
-border: 00.1px solid #3B4773E5;
-background:#3B4773E5;
-font-size: 24px;
-text-decoration: ;
-   color: white;
-   /* Ellipse 7 */
-
-
-position: absolute;
-width: 106.76px;
-height: 100.86px;
-left: 48.61px;
-top: 392.6px;
-
-background: rgba(59, 71, 115, 0.9);
-}
 
 .ga10{
-   /* Ellipse 7 */
+padding-top: 46px;
+text-align:center;
+border-radius: 50%;
+border: 00.1px solid #3B4773E5;
+background:#3B4773E5;
+font-size: 47.2306px;
 
-
+padding-left: 21px;
+padding-right:21px;
 position: absolute;
 width: 106.76px;
 height: 100.86px;
@@ -103,6 +72,23 @@ left: 148.61px;
 top: 392.6px;
 
 background: rgba(59, 71, 115, 0.9);
+}
+
+.a10{
+ /* 1 */
+
+
+
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 47.2306px;
+line-height: 55px;
+
+color: #FFFFFF;
+
+
    
    }
    
