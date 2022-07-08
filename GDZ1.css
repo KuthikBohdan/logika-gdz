@@ -97,7 +97,31 @@ color: #FFFFFF;
    
    
 .a20{
-   
+   /* 2 */
+
+position: absolute;
+
+width: 27px;
+
+height: 55px;
+
+left: 362.61px;
+
+top: 426.02px;
+
+font-family: 'Roboto';
+
+font-style: normal;
+
+font-weight: 400;
+
+font-size: 47.2374px;
+
+line-height: 55px;
+
+color: #FFFFFF;
+
+transform: rotate(-0.54deg);
 }
 .a30{
 
