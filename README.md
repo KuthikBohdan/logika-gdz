@@ -18,16 +18,16 @@
             <p class="f10">logika</p>
             
 <nav class="ga10"> <a  href="#b10" class="a10">1</a></nav> 
-<nav class="ga20"> <a href="#b20" class="a20">2</a><nav>
-<nav class="ga30"> <a  href="#b30" class="a30">3</a></nav>
-<nav class="ga40"> <a  href="#b40" class="a40">4</a></nav>
-<nav class="ga50"> <a  href="#b50" class="a50">5</a></nav>
-<nav class="ga60"> <a  href="#b60" class="a60">6</a></nav>
-<nav class="ga70"> <a  href="#b70" class="a70"7</a></nav>
-<nav class="ga80"> <a  href="#b80" class="a80">8</a></nav>
+<nav class="ga20"> <a href="#b20" class="a10">2</a><nav>
+<nav class="ga30"> <a  href="#b30" class="a10">3</a></nav>
+<nav class="ga40"> <a  href="#b40" class="a10">4</a></nav>
+<nav class="ga50"> <a  href="#b50" class="a10">5</a></nav>
+<nav class="ga60"> <a  href="#b60" class="a10">6</a></nav>
+<nav class="ga70"> <a  href="#b70" class="a10"7</a></nav>
+<nav class="ga80"> <a  href="#b80" class="a10">8</a></nav>
             
             <p id="b10" class="b10">розділ 1 </p>
-            
+             
             
             
             
