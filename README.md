@@ -18,7 +18,7 @@
             <p class="f10">logika</p>
             
 <nav class="ga10"> <a  href="#b10" class="a10">1</a></nav> 
-<nav class="ga20"> <a href="#b20" class="a10">2</a><nav>
+<nav class="ga20"> <a href="#b20" class="a20">2</a><nav>
 <nav class="ga30"> <a  href="#b30" class="a10">3</a></nav>
 <nav class="ga40"> <a  href="#b40" class="a10">4</a></nav>
 <nav class="ga50"> <a  href="#b50" class="a10">5</a></nav>
