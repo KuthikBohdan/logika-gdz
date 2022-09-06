@@ -130,7 +130,30 @@ background: rgba(59, 71, 115, 0.9);
   
 top:392.6px;
 
+
    }
+.a20{
+/* 2 */
+
+
+position: absolute;
+width: 12px;
+height: 23px;
+left: 150.36px;
+top: 176.66px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 19.5877px;
+line-height: 23px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+transform: rotate(-0.54deg);
+}
    
    
 .ga30{
@@ -170,6 +193,28 @@ background: rgba(59, 71, 115, 0.9);
 top:420.4px;
 
    }
+.a30{
+/* 3 */
+
+
+position: absolute;
+width: 12px;
+height: 23px;
+left: 276.87px;
+top: 174.33px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 19.5849px;
+line-height: 23px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+
+}
 
 
 
