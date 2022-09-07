@@ -52,7 +52,24 @@ color: #193DBC;
 .e20{
 
 }
+.a10{
 
+
+/* 1 */
+
+
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 47.2306px;
+line-height: 55px;
+
+color: #FFFFFF;
+
+
+   
+   }
 
 .ga10{
 
@@ -76,24 +93,7 @@ top: 392.6px;
 background: rgba(59, 71, 115, 0.9);
 }
 
-.a10{
 
-
-/* 1 */
-
-
-
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 47.2306px;
-line-height: 55px;
-
-color: #FFFFFF;
-
-
-   
-   }
 .ga20{
    padding-top: 10px;
 
@@ -168,53 +168,30 @@ left: 362.61px;
 top:2px
 
    }
-
-
-
-
-
-
-
 .ga40{
 
-   padding-top: 10px;
-
+padding-top: 10px;
 padding-right:30px ;
-
 padding-bottom:25px;
-
 padding-left:26px ;
-
 text-align:center;
-
 border-radius: 50%;
-
 border: 00.1px solid #3B4773E5;
-
 background:#3B4773E5;
-
 font-size: 47.2306px;
 
+
 position: absolute;
-
 width: 106.76px;
-
 height: 100.86px;
+left: 148.61px;
+top: 850px;
 
 background: rgba(59, 71, 115, 0.9);
+}
 
-   
-
-   left: 667.7;
-
-  
-
-top:543.64px;
-
-   }
 
 .ga50{
-
    padding-top: 10px;
 
 padding-right:30px ;
@@ -239,13 +216,17 @@ width: 106.76px;
 
 height: 100.86px;
 
-background: rgba(59, 71, 115, 0.9);
 
-left: 362.61px
+
+
+
+background: rgba(59, 71, 115, 0.9);
+   
+   left:512px;
 
   
+top:850px;
 
-top:543.64px;
 
    }
 
@@ -278,16 +259,12 @@ height: 100.86px;
 background: rgba(59, 71, 115, 0.9);
 
    
-
-  left: 667.7;
+left: 362.61px;
 
   
-
-top:543.64px;
+top:1px
 
    }
-
-
 
 
 .ga70{
