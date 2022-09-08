@@ -6,6 +6,42 @@ body {
 
 background: rgba(37, 12, 187, 0.26);
 }
+.tg{
+      padding-top: 10px;
+
+padding-right:30px ;
+
+padding-bottom:25px;
+
+padding-left:26px ;
+
+text-align:center;
+
+border-radius: 50%;
+
+border: 00.1px solid #3B4773E5;
+
+background:#3B4773E5;
+   
+position: absolute;
+width: 22px;
+height: 46px;
+left: 298.89px;
+top: 351.16px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 38.9365px;
+line-height: 46px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+transform: rotate(-0.54deg);
+
+}
 .f10{
 /* logka */
 
@@ -72,115 +108,58 @@ color: #FFFFFF;
    }
 
 .ga10{
-
-
 position: absolute;
-width: 32.04px;
-height: 28.79px;
-left: 71.38px;
-top: 345.51px;
+width: 85.2px;
+height: 76.57px;
+left: 189.83px;
+top: 918.89px;
 
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
-font-size: 38.9309px;
-line-height: 46px;
+font-size: 103.537px;
+line-height: 121px;
 
 color: #FFFFFF;
-   
-    padding-top: 10px;
-
-padding-right:30px ;
-
-padding-bottom:25px;
-
-padding-left:26px ;
-
-text-align:center;
-
-border-radius: 50%;
-
-border: 00.1px solid #3B4773E5;
-
-background:#3B4773E5;
-
 
 }
 
 
 .ga20{
-   padding-top: 10px;
-
-padding-right:30px ;
-
-padding-bottom:25px;
-
-padding-left:26px ;
-
-text-align:center;
-
-border-radius: 50%;
-
-border: 00.1px solid #3B4773E5;
-
-background:#3B4773E5;
-   
+  
 position: absolute;
-width: 22px;
-height: 46px;
-left: 298.89px;
-top: 351.16px;
+width: 59px;
+height: 121px;
+left: 794.91px;
+top: 933.91px;
 
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
-font-size: 38.9365px;
-line-height: 46px;
-/* identical to box height */
-
+font-size: 103.552px;
+line-height: 121px;
 
 color: #FFFFFF;
 
 transform: rotate(-0.54deg);
-
-
-
    }
 
 .ga30{
 
-   padding-top: 10px;
-
-padding-right:30px ;
-
-padding-bottom:25px;
-
-padding-left:26px ;
-
-text-align:center;
-
-border-radius: 50%;
-
-border: 00.1px solid #3B4773E5;
-
-background:#3B4773E5;
-
+  
 position: absolute;
-width: 22px;
-height: 46px;
-left: 550.37px;
-top: 346.53px;
+width: 59px;
+height: 121px;
+left: 1463.7px;
+top: 921.6px;
 
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
-font-size: 38.9309px;
-line-height: 46px;
-/* identical to box height */
-
+font-size: 103.537px;
+line-height: 121px;
 
 color: #FFFFFF;
-
 
    }
 .ga40{
