@@ -169,63 +169,47 @@ top:2px
 
    }
 .ga40{
-
-padding-top: 10px;
-padding-right:30px ;
-padding-bottom:25px;
-padding-left:26px ;
-text-align:center;
-border-radius: 50%;
-border: 00.1px solid #3B4773E5;
-background:#3B4773E5;
-font-size: 47.2306px;
+/* 4 */
 
 
 position: absolute;
-width: 106.76px;
-height: 100.86px;
-left: 148.61px;
-top:225px;
+width: 12px;
+height: 23px;
+left: 35.91px;
+top: 225.43px;
 
-background: rgba(59, 71, 115, 0.9);
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 19.5849px;
+line-height: 23px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
 }
 
 
 .ga50{
-   padding-top: 10px;
+ /* 5 */
 
-padding-right:30px ;
-
-padding-bottom:25px;
-
-padding-left:26px ;
-
-text-align:center;
-
-border-radius: 50%;
-
-border: 00.1px solid #3B4773E5;
-
-background:#3B4773E5;
-
-font-size: 47.2306px;
 
 position: absolute;
+width: 12px;
+height: 23px;
+left: 149.89px;
+top: 228.08px;
 
-width: 106.76px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 19.5849px;
+line-height: 23px;
+/* identical to box height */
 
-height: 100.86px;
 
-
-
-
-
-background: rgba(59, 71, 115, 0.9);
-   
-   left:512px;
-
-  
-top:225px;
+color: #FFFFFF;
 
 
 
@@ -233,92 +217,95 @@ top:225px;
 
 .ga60{
 
-   padding-top: 10px;
+ /* 6 */
 
-padding-right:30px ;
-
-padding-bottom:25px;
-
-padding-left:26px ;
-
-text-align:center;
-
-border-radius: 50%;
-
-border: 00.1px solid #3B4773E5;
-
-background:#3B4773E5;
-
-font-size: 47.2306px;
 
 position: absolute;
+width: 12px;
+height: 23px;
+left: 276.87px;
+top: 225.68px;
 
-width: 106.76px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 19.5849px;
+line-height: 23px;
+/* identical to box height */
 
-height: 100.86px;
 
-background: rgba(59, 71, 115, 0.9);
+color: #FFFFFF;
 
-top:225px;
-
-  
- left:700px;
 
    }
 
 
 .ga70{
 
-   padding-top: 10px;
+ /* 7 */
 
-padding-right:30px ;
-
-padding-bottom:25px;
-
-padding-left:26px ;
-
-text-align:center;
-
-border-radius: 50%;
-
-border: 00.1px solid #3B4773E5;
-
-background:#3B4773E5;
-
-font-size: 47.2306px;
 
 position: absolute;
+width: 12px;
+height: 23px;
+left: 35.91px;
+top: 281.74px;
 
-width: 106.76px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 19.5849px;
+line-height: 23px;
+/* identical to box height */
 
-height: 100.86px;
 
-background: rgba(59, 71, 115, 0.9);
+color: #FFFFFF;
 
-   
+   }
+.ga80{
 
-   left: 667.7;
+/* 8 */
 
-  
 
-top:645.49px;
+position: absolute;
+width: 12px;
+height: 23px;
+left: 278.22px;
+top: 281.76px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 19.5849px;
+line-height: 23px;
+/* identical to box height */
+
+
+color: #FFFFFF;
 
    }
 
 
-}
-
-h4{
-  color: #3B4773; 
-   left: 500px;
-top: 1200.45px;
-color: #3B4773;
-
-}
 
 .b10{
    /* розділ 1 */
 
+/* розділ 1 */
+
+
+position: absolute;
+width: 51px;
+height: 15px;
+left: 119.77px;
+top: 348.45px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13.0566px;
+line-height: 15px;
+
+color: #3B4773;
 
 
 }
@@ -326,17 +313,65 @@ color: #3B4773;
   /* урок 2 */
 
 
+position: absolute;
+width: 39px;
+height: 15px;
+left: 20.16px;
+top: 363.75px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13.0566px;
+line-height: 15px;
+
+color: #3B4773;
+
 
  
 }
 .c121{
    /* 3 */
+/* 3 */
+
+
+position: absolute;
+width: 12px;
+height: 23px;
+left: 35.91px;
+top: 397px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 19.5849px;
+line-height: 23px;
+/* identical to box height */
+
+
+color: #FFFFFF;
 
 
 
 }
 .c221{
    /* 4 */
+
+position: absolute;
+width: 12px;
+height: 23px;
+left: 129.96px;
+top: 397.3px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 19.5849px;
+line-height: 23px;
+/* identical to box height */
+
+
+color: #FFFFFF;
 
 
 
@@ -345,12 +380,43 @@ color: #3B4773;
 .d31{
   /* урок 3 */
 
+/* урок 3 */
+
+
+position: absolute;
+width: 39px;
+height: 15px;
+left: 20.36px;
+top: 469.63px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13.0566px;
+line-height: 15px;
+
+color: #3B4773;
 
 
  
 }
 .c331{
    /* 5 */
+position: absolute;
+width: 12px;
+height: 23px;
+left: 35.31px;
+top: 502.71px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 19.5849px;
+line-height: 23px;
+/* identical to box height */
+
+
+color: #FFFFFF;
 
 
 }
@@ -359,6 +425,21 @@ color: #3B4773;
 .c431{
    /* 6 */
 
+position: absolute;
+width: 12.65px;
+height: 23px;
+left: 130.64px;
+top: 502.71px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 19.5849px;
+line-height: 23px;
+/* identical to box height */
+
+
+color: #FFFFFF;
 
 
 
@@ -366,7 +447,21 @@ color: #3B4773;
 
 .b20{
   /* розділ 2 */
+position: absolute;
+width: 57.53px;
+height: 12.85px;
+left: 117.88px;
+top: 568.64px;
 
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13.0566px;
+line-height: 15px;
+
+color: #3B4773;
+
+opacity: 0.9;
 
 }
 
@@ -374,48 +469,180 @@ color: #3B4773;
 .d12{
    /* урок 1 */
 
+position: absolute;
+width: 39px;
+height: 15px;
+left: 25.3px;
+top: 616.72px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13.0566px;
+line-height: 15px;
+
+color: #3B4773;
+
 
    
 }
  .c542{
    /* 1 */
 
+position: absolute;
+width: 12px;
+height: 23px;
+left: 35.91px;
+top: 658.54px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 19.5849px;
+line-height: 23px;
+/* identical to box height */
+
+
+color: #FFFFFF;
 
 
  
 }
 .c642{
 
+position: absolute;
+width: 12px;
+height: 23px;
+left: 131.31px;
+top: 656.09px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 19.5849px;
+line-height: 23px;
+/* identical to box height */
+
+
+color: #FFFFFF;
 
    
 }
 
 .d22{
   /* урок 2 */
+position: absolute;
+width: 39px;
+height: 15px;
+left: 20.57px;
+top: 717.91px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13.0566px;
+line-height: 15px;
+
+color: #3B4773;
 
 }
 
 .c752{
    /* 3 */
 
+position: absolute;
+width: 12px;
+height: 23px;
+left: 36.32px;
+top: 751.16px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 19.5849px;
+line-height: 23px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
 }
 
 .c852{
    
    /* 4 */
+position: absolute;
+width: 12px;
+height: 23px;
+left: 130.64px;
+top: 751.36px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 19.5849px;
+line-height: 23px;
+/* identical to box height */
+
+
+color: #FFFFFF;
 
 }
 
 .d32{
    /* урок 3 */
+position: absolute;
+width: 39px;
+height: 15px;
+left: 20.77px;
+top: 807.26px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13.0566px;
+line-height: 15px;
+
+color: #3B4773;
 
 }
 .c962{
    /* 5 */
-=
+position: absolute;
+width: 12px;
+height: 23px;
+left: 35.98px;
+top: 840.56px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 19.5849px;
+line-height: 23px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+opacity: 0.98;
 }
 .c1062{
   /* 6 */
+position: absolute;
+width: 12.65px;
+height: 23px;
+left: 131.31px;
+top: 843.93px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 19.5849px;
+line-height: 23px;
+/* identical to box height */
+
+
+color: #FFFFFF;
 
  
    
@@ -424,26 +651,97 @@ color: #3B4773;
 .d42{
   /* урок 4 */
 
-   
+   position: absolute;
+width: 39px;
+height: 15px;
+left: 20.27px;
+top: 883.8px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13.0566px;
+line-height: 15px;
+
+color: #3B4773;
+
 }
 .c1172{
    /* 7 */
+position: absolute;
+width: 12px;
+height: 23px;
+left: 31.76px;
+top: 911.25px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 19.5849px;
+line-height: 23px;
+/* identical to box height */
+
+
+color: #FFFFFF;
 
 
 }
 
 .c1272{
    /* 8 */
+position: absolute;
+width: 12px;
+height: 23px;
+left: 131.99px;
+top: 912.18px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 19.5849px;
+line-height: 23px;
+/* identical to box height */
+
+
+color: #FFFFFF;
 
 }
 
 .b30{
    /* розділ 3 */
+position: absolute;
+width: 57.53px;
+height: 12.85px;
+left: 129.67px;
+top: 958.64px;
 
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13.0566px;
+line-height: 15px;
+
+color: #3B4773;
+
+opacity: 0.9;
 }
 
 
 .d13{
    /* урок 1 */
+
+position: absolute;
+width: 39px;
+height: 15px;
+left: 20.4px;
+top: 985.98px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13.0566px;
+line-height: 15px;
+
+color: #3B4773;
 
 }
