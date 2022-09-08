@@ -179,12 +179,12 @@
 <a class="с57308" href="">5</a>
 <a class="c58318" href="">6</a> 
       <p class="d38">урок 4</p>
-    <a class="с59308" href="">7</a>
-<a class="c60318" href="">8</a> 
-    <a class="с61308" href="">9</a>
-<a class="c62318" href="">10</a> 
-    <a class="с63308" href="">11</a>
-<a class="c64318" href="">12</a> 
+    <a class="с59" href="">7</a>
+<a class="c60" href="">8</a> 
+    <a class="с61" href="">9</a>
+<a class="c62" href="">10</a> 
+    <a class="с63" href="">11</a>
+<a class="c64" href="">12</a> 
     
         
             
