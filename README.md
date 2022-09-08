@@ -26,7 +26,7 @@
 <nav class="ga70"> <a  href="#b70" class="a10"7</a></nav>
 <nav class="ga80"> <a  href="#b80" class="a10">8</a></nav>
             
-    <p id="b10" class="b10"> <h4>розділ 1</h4> </p>
+    <p id="b10" class="b10"> <h4> розділ 1</h4> </p>
              
             
             
