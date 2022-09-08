@@ -108,19 +108,18 @@ color: #FFFFFF;
    }
 
 .ga10{
+
 position: absolute;
-width: 34px;
-height: 70px;
-left: 839.9px;
-top: 528.83px;
+width: 41.52px;
+height: 37.32px;
+left: 92.51px;
+top: 447.79px;
 
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
-font-size: 59.4114px;
-line-height: 70px;
-/* identical to box height */
-
+font-size: 50.4549px;
+line-height: 59px;
 
 color: #FFFFFF;
 
@@ -129,7 +128,9 @@ color: #FFFFFF;
 
 
 .ga20{
- 
+/* 2 */
+
+
 position: absolute;
 width: 29px;
 height: 59px;
@@ -145,6 +146,7 @@ line-height: 59px;
 color: #FFFFFF;
 
 transform: rotate(-0.54deg);
+
    }
 
 .ga30{
@@ -152,7 +154,7 @@ position: absolute;
 width: 29px;
 height: 59px;
 left: 713.28px;
-top: 1px;
+top: 449.1px;
 
 font-family: 'Roboto';
 font-style: normal;
