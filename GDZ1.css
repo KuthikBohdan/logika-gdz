@@ -109,48 +109,6 @@ color: #FFFFFF;
 
 .ga10{
 position: absolute;
-width: 48.89px;
-height: 43.94px;
-left: 108.93px;
-top: 527.28px;
-
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 59.4114px;
-line-height: 70px;
-
-color: #FFFFFF;
-
-
-}
-
-
-.ga20{
-  
-
-
-position: absolute;
-width: 34px;
-height: 70px;
-left: 456.13px;
-top: 535.89px;
-
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 59.42px;
-line-height: 70px;
-/* identical to box height */
-
-
-color: #FFFFFF;
-
-transform: rotate(-0.54deg);
-   }
-
-.ga30{
-position: absolute;
 width: 34px;
 height: 70px;
 left: 839.9px;
@@ -163,6 +121,44 @@ font-size: 59.4114px;
 line-height: 70px;
 /* identical to box height */
 
+
+color: #FFFFFF;
+
+
+}
+
+
+.ga20{
+ 
+position: absolute;
+width: 29px;
+height: 59px;
+left: 387.37px;
+top: 455.1px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 50.4622px;
+line-height: 59px;
+
+color: #FFFFFF;
+
+transform: rotate(-0.54deg);
+   }
+
+.ga30{
+position: absolute;
+width: 29px;
+height: 59px;
+left: 713.28px;
+top: 449.1px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 50.4549px;
+line-height: 59px;
 
 color: #FFFFFF;
 
