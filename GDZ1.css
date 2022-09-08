@@ -646,22 +646,24 @@ color: #FFFFFF;
 }
 
 .b30{
-  /* 8 */
+/* розділ 3 */
 
 
 position: absolute;
-width: 29px;
-height: 59px;
-left: 340.03px;
-top: 2349.97px;
+width: 148.21px;
+height: 33.11px;
+left: 334.05px;
+top: 2469.66px;
 
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
-font-size: 50.4549px;
-line-height: 59px;
+font-size: 33.6366px;
+line-height: 39px;
 
-color: #FFFFFF;
+color: #3B4773;
+
+opacity: 0.9; 
 
 }
 
@@ -683,4 +685,10 @@ line-height: 39px;
 color: #3B4773;
 
 
+}
+.c1383{
+   
+}
+.c1483{
+   
 }
