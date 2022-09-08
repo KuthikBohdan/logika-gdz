@@ -109,16 +109,16 @@ color: #FFFFFF;
 
 .ga10{
 position: absolute;
-width: 85.2px;
-height: 76.57px;
-left: 189.83px;
-top: 918.89px;
+width: 59.95px;
+height: 53.88px;
+left: 133.56px;
+top: 646.51px;
 
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
-font-size: 103.537px;
-line-height: 121px;
+font-size: 72.8462px;
+line-height: 85px;
 
 color: #FFFFFF;
 
@@ -127,17 +127,18 @@ color: #FFFFFF;
 
 .ga20{
   
+
 position: absolute;
-width: 59px;
-height: 121px;
-left: 794.91px;
-top: 933.91px;
+width: 41px;
+height: 85px;
+left: 559.28px;
+top: 657.07px;
 
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
-font-size: 103.552px;
-line-height: 121px;
+font-size: 72.8566px;
+line-height: 85px;
 
 color: #FFFFFF;
 
@@ -146,20 +147,20 @@ transform: rotate(-0.54deg);
 
 .ga30{
 
-  
-position: absolute;
-width: 59px;
-height: 121px;
-left: 1463.7px;
-top: 921.6px;
+ position: absolute;
+width: 41px;
+height: 85px;
+left: 1029.83px;
+top: 648.41px;
 
 font-family: 'Roboto';
 font-style: normal;
 font-weight: 400;
-font-size: 103.537px;
-line-height: 121px;
+font-size: 72.8462px;
+line-height: 85px;
 
 color: #FFFFFF;
+
 
    }
 .ga40{
