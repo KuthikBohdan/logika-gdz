@@ -185,7 +185,7 @@ position: absolute;
 width: 106.76px;
 height: 100.86px;
 left: 148.61px;
-top: 850px;
+top:225px;
 
 background: rgba(59, 71, 115, 0.9);
 }
@@ -225,7 +225,8 @@ background: rgba(59, 71, 115, 0.9);
    left:512px;
 
   
-top:850px;
+top:225px;
+
 
 
    }
@@ -258,11 +259,10 @@ height: 100.86px;
 
 background: rgba(59, 71, 115, 0.9);
 
-   
-left: 362.61px;
+top:225px;
 
   
-top:1px
+ left:700px;
 
    }
 
