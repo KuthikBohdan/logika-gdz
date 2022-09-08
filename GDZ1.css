@@ -307,19 +307,18 @@ top:645.49px;
 
 
 }
+
+h4{
+  color: #3B4773; 
+   left: 500px;
+top: 1200.45px;
+color: #3B4773;
+
+}
+
 .b10{
    /* розділ 1 */
 
-
-position: absolute;
-
-left: 500px;
-top: 1200.45px;
-
-font-family: 'Roboto';
-line-height: 15px;
-
-color: #3B4773;
 
 
 }
