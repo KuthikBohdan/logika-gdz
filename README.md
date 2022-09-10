@@ -21,7 +21,7 @@
         
             
         </header>
-        <mein>
+       
             <nav class="ga10"> <a  href="#b10" class="a10">1</a></nav> 
 <nav class="ga20"> <a href="#b20" class="a10">2</a><nav>
 <nav class="ga30"> <a  href="#b30" class="a10">3</a></nav>
@@ -194,9 +194,3 @@
 
           
     
-    
-        </mein>
-
-
-    </body>
-
